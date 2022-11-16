@@ -1,0 +1,15 @@
+export default {
+    existUser: "new",
+    existPass: "pass",
+    emptyUser: " ",
+    emptyPass: " ",
+    successUser: "rox#3" ,
+    successPass: "pass",
+    loginIncorrectPass: "test",
+    phones_categories: ["Nokia lumia 1520", "Samsung galaxy s6", "Samsung galaxy s7", "Nexus 6", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9"],
+    laptops_categories: ["MacBook air", "Dell i7 8gb", "2017 Dell 15.6 Inch", "MacBook Pro", "Sony vaio i5", "Sony vaio i7"],
+    monitors_categories: ["Apple monitor 24", "ASUS Full HD"],
+    product_added_to_cart_name: "Samsung galaxy s6",
+    place_order_name: "Roxana",
+    place_order_card: "1234567890",
+}
